@@ -45,14 +45,5 @@ initializeBoard();
 
 
 var players = [];
-
-var Player = function(){
-	this.figures = [];
-	this.result = result;
-}
-
-var Figure = function(){
-	this.name
-}
 };
 
